@@ -1,2 +1,2 @@
 # my-wallpapers-wallpaper-installer.github.io
-Сделано в Microsoft FrontPage
+Сделано в ![Microsoft FrontPage](FrontPage.gif)
